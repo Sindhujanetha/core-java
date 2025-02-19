@@ -1,6 +1,6 @@
 package com.tnsif.comparabledemo;
 
-public class Laptop implements Comaparable<Laptop> {
+public class Laptop implements Comparable<Laptop> {
 	
 	private String brand;
 	private int price;
