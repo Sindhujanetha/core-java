@@ -45,8 +45,7 @@ public class Laptop implements Comaparable<Laptop> {
 		else
 			return -1;
 		
-	public int compareTo(Laptop o) {
-		return 0;
+	
 		
 		}
 	}
@@ -66,4 +65,4 @@ public class Laptop implements Comaparable<Laptop> {
 	
 	
 
-}
+
