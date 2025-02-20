@@ -1,22 +1,21 @@
 package com.tnsif.collectionframework;
-
 import java.util.TreeSet;
 
-public class TreeSet {
-	public static void tressetoperation() {
-		TreeSet<Integer>t=new TreeSet<Intger>();
+public class TreeSetExample {
+	public static void tresSetOperation() {
+		TreeSet<Integer>t=new TreeSet<Integer>();
 		
 		t.add(78);
 		t.add(8);
 		t.add(58);
 		t.add(3);
 		t.add(3);
-		t.add(null);
+	
 		
 		System.out.println("elements of treeset"+t);
 	}
 	public static void main(String[] args) {
-		TreeSet.tressetoperation();
+		TreeSetExample.tresSetOperation();
 	}
 		
 		
