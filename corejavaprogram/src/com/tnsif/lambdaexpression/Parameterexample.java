@@ -5,6 +5,7 @@ public class Parameterexample {
 		
 		Square t=(a)->{return(a*a);};
 		System.out.println("square of a number"+t.calculate(6));
+		
 	}
 
 }
